@@ -1,6 +1,6 @@
 {
   "name": "angular-page-generator",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Angular automatic modules and components geneator for pages",
   "main": "index.js",
   "keywords": [
@@ -14,7 +14,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node dist/app.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eerkan/angular-page-generator.git"
+  },
+  "author": "Emre Erkan",
   "license": "ISC",
   "devDependencies": {
     "@types/lodash": "^4.14.165",

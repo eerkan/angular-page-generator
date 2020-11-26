@@ -8,7 +8,9 @@ Create automatic create modules and components for angular pages.
         pages: Pages list
 
 # Usage:
-
+    git clone https://github.com/eerkan/angular-page-generator.git
+    cd angular-page-generator
+    npm install
     npm start
 ---
 **NOTE**
