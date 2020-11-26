@@ -1,0 +1,68 @@
+{
+    "prefix": "elsa",
+    "pages": {
+        "customer-management": {
+            "customers-operations": [
+                "customer-card"
+            ],
+            "meters-operations": [
+                "customer-meters"
+            ],
+            "contracts-operations": [
+                "contract-cards"
+            ]
+        },
+        "operations-management": {
+            "epias-service-management": [
+                "meter-services",
+                "consumption-services",
+                "index-services"
+            ],
+            "index-management": [
+                "index-operations",
+                "manuel-index-operations"
+            ]
+        },
+        "accounting-management": {
+            "biling-operations": [
+                "index-biling-operations",
+                "stock-biling-operations",
+                "manuel-biling-operations"
+            ],
+            "accounting-operations": [
+                "ehtv-operations",
+                "revenue-administration-report",
+                "revenue-administration2-report"
+            ]
+        },
+        "system-management": {
+            "definitions": [
+                "municipalities",
+                "distribution-companies",
+                "suppliers",
+                "sectors",
+                "stocks"
+            ],
+            "employee-management": [
+                "employee-definition"
+            ],
+            "authorization-management": [
+                "user-auths",
+                "group-auths"
+            ]
+        },
+        "software-settings": [
+            "mail-settings",
+            "system-parameters",
+            "integration-settings"
+        ],
+        "system-settings": [
+            "system-parameters"
+        ],
+        "help": [
+            "about",
+            "documentations",
+            "support"
+        ]
+    }
+}
