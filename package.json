@@ -1,6 +1,6 @@
 {
   "name": "angular-page-generator",
-  "version": "1.0.10",
+  "version": "1.0.9",
   "description": "Angular automatic modules and components geneator for pages",
   "main": "index.js",
   "keywords": [
